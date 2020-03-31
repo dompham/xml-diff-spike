@@ -5,8 +5,8 @@ ruby diff.rb
 ```
 
 The export here had it's patient's last name dropped, social security value messed up, their first name duplicated and re-ordered down a few elements. Text diffy vs MVP diff:
-![text](https://github.com/dompham/xml-diff-spike/blob/master/text_diffy.png)
-![logical](https://github.com/dompham/xml-diff-spike/blob/master/xml_differ.png)
+![text](https://github.com/dompham/xml-diff-spike/blob/master/lib/text_diffy.png)
+![logical](https://github.com/dompham/xml-diff-spike/blob/master/lib/xml_differ.png)
 
 
 #### Import/Export Diff Spike
