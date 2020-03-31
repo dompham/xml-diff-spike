@@ -1,0 +1,75 @@
+<registryDocument
+  schemaVersion="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="file://share1/divisions/NCDR/Core%20Data%20Elements/Cath%20Lab/5.0/BA%20Working%20Folder%20-%20DO%20NOT%20USE/Vendor%20Functional%20Specifications/Package/CathPCI_v5_ApplicationSpecifications_Rev2/Rev2_WIP/RTD.xsd">
+<patient ncdrPatientId="150004">
+  <section code="DEMOGRAPHICS" displayName="A. Demographics">
+
+
+    <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="1000142463">
+      <value xsi:type="MN" value="A"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.4.1" codeSystemName="United States Social Security Number (SSN)" code="2.16.840.1.113883.4.1">
+      <value xsi:type="BL" value="true...maybe"/>
+    </element>
+        <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="1000142463">
+      <value xsi:type="FN" value="ALLEN"/>
+    </element>
+        <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="1000142463">
+      <value xsi:type="FN" value="ALLEN"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="2.16.840.1.113883.3.3478.4.842">
+      <value xsi:type="NUM" value="150004"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="2.16.840.1.113883.3.3478.4.843">
+      <value xsi:type="ST" value="165004"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="1000142447">
+      <value xsi:type="DT" value="1951-01-11"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="1000142448">
+      <value xsi:type="CD" codeSystem="2.16.840.1.113883.5.1" codeSystemName="HL7 Administrative Gender" code="M"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="1000142449">
+      <value xsi:type="BL" value="true"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2106-3">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2054-5">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="1002-5">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2028-9">
+      <value xsi:type="BL" value="true"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2076-8">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2029-7">
+      <value xsi:type="BL" value="true"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2034-7">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2036-2">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2039-6">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2040-4">
+      <value xsi:type="BL" value="true"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.5.104" codeSystemName="HL7 Race" code="2047-9">
+      <value xsi:type="BL" value="false"/>
+    </element>
+    <element codeSystem="2.16.840.1.113883.3.3478.6.1" codeSystemName="ACC NCDR" code="100001130">
+      <value xsi:type="BL" value="true"/>
+    </element>
+  </section>
+</patient>
+
+</registryDocument>
